@@ -25,7 +25,7 @@
   [ X ] O usuário precisa estar autenticado na aplicação
 
 
-## Próxim nível
+## Próximo nível
 
 - enviar e-mail ao recepitor informando do recebimento do elogio;
 - colocar a API em produção;
